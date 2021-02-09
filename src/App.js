@@ -6,8 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
+        Luma Contemporary Art
       </header>
+
+      <footer> coded by Cav3ndish </footer>
     </div>
   );
 }
