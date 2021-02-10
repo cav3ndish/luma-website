@@ -1,0 +1,15 @@
+.carousel{
+    display:block;
+    margin:0 auto;
+    padding: 5px;
+    max-width:300px;}
+
+    .carousel-caption{
+        color: rgb(98, 16, 118);
+        padding:0px;
+        line-height: 0cm;
+        font-size: 15px;
+               
+    }
+
+h3  {font-size:20px;}

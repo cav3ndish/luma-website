@@ -1,19 +1,34 @@
-.App {
-  text-align: center;
-  font-family: 'Dosis', sans-serif;
-  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+.container-fluid{
+  padding:0px;
 }
 
+.logoImg{max-width:70px;
+border-radius: 15px;
+}
 
+.link-list {
+  display:flex;
+  list-style: none;
+padding-inline-start: 500px;
+}
 
-.App-header {
-  
-  min-height: 100vh;
+li, a {text-decoration: none;}
+
+.linkItem{
+  padding:2px;
+}
+
+.Header {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
 }
 
+.subTitle{
+  text-align:center;
+}
+.title {  transition:  140ms ease-in-out 140ms;
+   font-size: 25px;
+  font-weight: 700;
+}
+
+footer {text-align: center;}
